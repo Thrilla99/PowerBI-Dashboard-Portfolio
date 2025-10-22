@@ -5,20 +5,17 @@ Each project includes a Power BI file (`.pbix`), dataset (`.xlsx`), a preview im
 
 ---
 
-## Projects
+##Projects
 
 | Project | Description |
 |----------|--------------|
-| [HR Analytics Dashboard](./HR_Analytics_Dashboard/README.md) | Employee distribution, salary insights, and performance tracking across company centers. |
-| [School Activity Dashboard](./School_Activity_Dashboard/README.md) | Student interest and participation trends for school activity planning. |
-| [Pizza Sales Dashboard](./Pizza_Sales_Dashboard/README.md) | Pizza sales performance, base sauce trends, and monthly revenue growth. |
+| [HR Analytics Dashboard](./Power_BI_Projects/HR_Analytics_Dashboard/README.md) | Employee distribution, salary insights, and performance tracking across company centers. |
+| [School Activity Dashboard](./Power_BI_Projects/School_Activity_Dashboard/README.md) | Student interest and participation trends for school activity planning. |
+| [Pizza Sales Dashboard](./Power_BI_Projects/Pizza_Sales_Dashboard/README.md) | Pizza sales performance, base sauce trends, and monthly revenue growth. |
 
 ---
 
 ## Tools Used
-- **Power BI** -dashboard creation and KPI analysis  
+- **Power BI** - dashboard creation and KPI analysis  
 - **Power Query** - data cleaning and transformation  
 - **Microsoft Excel** - data preparation and structure  
-
-
-
